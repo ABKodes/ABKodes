@@ -21,7 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abkodes&show_icons=true&locale=en" alt="abkodes" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abkodes&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abkodes&show_icons=true&theme=github_dark&hide_border=true)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABKodes&bg_color=0d1117&color=2f81f7&line=2f81f7&point=53534f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
