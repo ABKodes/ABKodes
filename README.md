@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abiy</h1>
 <h3 align="center">Software Engineer and Full Stack Developer</h3>
 
-<p align="center"> <img width = "100%" src="[https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e67696](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)6" alt="abkodes" /> </p>
+<p align="center"> <img width = "100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="abkodes" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
