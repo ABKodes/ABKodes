@@ -18,7 +18,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ABKodes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a></p>
 
 
-<a> 
+<p align = "center"> 
     <a href="https://github.com/abkodes"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abkodes&show_icons=true&theme=github_dark&hide_border=true" height="192px" width="49.5%"/></a>
     <a href="https://github.com/abkodes"><img alt="Anurag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkodes&layout=compact&theme=github_dark&hide_border=true" height="192px" width="49.5%"/></a>
     <br/>
