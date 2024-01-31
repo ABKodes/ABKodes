@@ -19,8 +19,8 @@
 
 
 <p align = "center"> 
-    <a href="https://github.com/abkodes"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abkodes&show_icons=true&theme=github_dark&hide_border=true" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/abkodes"><img alt="Anurag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkodes&layout=compact&theme=github_dark&hide_border=true" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/abkodes"><img alt="Abiy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abkodes&show_icons=true&theme=github_dark&hide_border=true" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/abkodes"><img alt="Abiy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkodes&layout=compact&theme=github_dark&hide_border=true" height="192px" width="49.5%"/></a>
     <br/>
 </a>
 
