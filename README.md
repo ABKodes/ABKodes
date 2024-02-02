@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abkodes&label=Visitors&color=2f81f7&style=for-the-badge" alt="abkodes" /> </p>
 <h1 align="center">Hi 👋, I'm Abiy</h1>
 <h3 align="center">Software Engineer and Full Stack Developer</h3>
 
